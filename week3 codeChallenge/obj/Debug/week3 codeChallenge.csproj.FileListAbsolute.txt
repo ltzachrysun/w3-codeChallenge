@@ -1,0 +1,6 @@
+C:\Users\Technologist\Documents\GitHub\RCStrivia-Game\week3 codeChallenge\bin\Debug\week3 codeChallenge.exe.config
+C:\Users\Technologist\Documents\GitHub\RCStrivia-Game\week3 codeChallenge\bin\Debug\week3 codeChallenge.exe
+C:\Users\Technologist\Documents\GitHub\RCStrivia-Game\week3 codeChallenge\bin\Debug\week3 codeChallenge.pdb
+C:\Users\Technologist\Documents\GitHub\RCStrivia-Game\week3 codeChallenge\obj\Debug\week3 codeChallenge.csprojResolveAssemblyReference.cache
+C:\Users\Technologist\Documents\GitHub\RCStrivia-Game\week3 codeChallenge\obj\Debug\week3 codeChallenge.exe
+C:\Users\Technologist\Documents\GitHub\RCStrivia-Game\week3 codeChallenge\obj\Debug\week3 codeChallenge.pdb
